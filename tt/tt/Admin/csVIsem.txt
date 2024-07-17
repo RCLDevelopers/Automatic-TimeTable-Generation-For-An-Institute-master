@@ -1,0 +1,12 @@
+Day 8:30-9:25 9:30-10:25 10:35-11:30 11:35-12:30 2:00-3:25 3:30-4:55 5:00-6:25 6:30-7:55
+
+Monday Statistical_Pattern_Recognition,119 Compilers,210 Parameterized_Algo_and_Complexity,215 Operating_System,22 ......... ......... ......... Artificial_Neural_Networks_Deep_Learning,203::
+
+Tuesday Operating_System,22 Statistical_Pattern_Recognition,119 Compilers,210 Parameterized_Algo_and_Complexity,215 ......... ......... Environmental_Studies,23:: classical_mechanics,211::
+
+Wednesday ......... Operating_System_LabD1,Computer_Lab(Ground_Floor):: Operating_System_LabD1,Computer_Lab(Ground_Floor):: ......... ......... ......... ......... .........
+
+Thursday Parameterized_Algo_and_Complexity,215 Operating_System,22 Statistical_Pattern_Recognition,119 Compilers,210 ......... ......... ......... Artificial_Neural_Networks_Deep_Learning,203::
+
+Friday ......... ......... ......... ......... Artificial_Intelligence_LabD1,Computer_Lab(Ground_Floor):: Artificial_Intelligence_LabD1,Computer_Lab(Ground_Floor):: Environmental_Studies,23:: classical_mechanics,211::
+
